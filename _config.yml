@@ -1,0 +1,14 @@
+layout_spectrum: 0.7055316276382655
+typography_spectrum: 0.6937229342292994
+color:
+  brandStrength: 0.7913032062351704
+  lightness: 0.15465382486581802
+  saturation: 0.5180320697836578
+  rhythmicContrast: 0.9545107709709555
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: 8bit Campfire
